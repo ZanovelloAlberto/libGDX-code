@@ -1,12 +1,12 @@
 # libGDX-code
 setup vscode libgdx desktop java game
-requirement:
+
+# requirement:
 
 * jdk 8, for compile
 * jdk 11 for Language Server on vscode
 * vscode
 
-_______________________________________________________-
 - Unix:
 run "./gradlew desktop:run" over a terminal
 
