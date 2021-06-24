@@ -2,5 +2,8 @@
     "[java]": {
         
         "editor.suggest.snippetsPreventQuickSuggestions": false
-    }
+        
+    },
+    "java.home": "/usr/lib/jvm/java-11-openjdk-amd64",
+    "java.configuration.updateBuildConfiguration": "interactive",
 }
