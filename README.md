@@ -7,10 +7,10 @@ setup vscode libgdx desktop java game
 * jdk 11 for Language Server on vscode
 * vscode
 
-###### Unix:
+### Unix:
 run "./gradlew desktop:run" over a terminal
 
-###### Windows:
+### Windows:
 run "./gradlew.bat desktop:run" over a terminal
 
 ## Note:
