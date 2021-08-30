@@ -20,10 +20,3 @@ setup vscode libgdx desktop java game
 
 * Language Server requires JDK 11+ to launch itself
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
