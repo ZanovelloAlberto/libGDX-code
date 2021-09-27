@@ -8,7 +8,7 @@ setup vscode libgdx desktop java game
 * vscode
 
 ## Run Command
-* ### Unix:
+* ### Ubuntu:
   * run "./gradlew desktop:run" over a terminal
 
 * ### Windows:
